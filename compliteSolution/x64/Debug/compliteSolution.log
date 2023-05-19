@@ -1,0 +1,16 @@
+﻿  GamePlay.cpp
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\SecondGame.h(179,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\FirstGame.h(13,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\ThirdGame.h(14,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\GamePlay.h(19,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ThirdGame.cpp
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\SecondGame.h(179,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\ThirdGame.h(14,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  compliteSolution.cpp
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\SecondGame.h(179,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\FirstGame.h(13,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\ThirdGame.h(14,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\GamePlay.h(19,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+D:\c_c_c\lesson_16_05\compliteSolution\compliteSolution\SecondGame.h(196): warning C4715: SecondGame::findNumber: значение возвращается не при всех путях выполнения
+  compliteSolution.vcxproj -> D:\c_c_c\lesson_16_05\compliteSolution\x64\Debug\compliteSolution.exe
